@@ -1,5 +1,5 @@
 # products-sorter
-A simple program to rand products by crawling a website.
+A simple program to rank products by crawling a website.
 
 # Required Modules:
 - requests
